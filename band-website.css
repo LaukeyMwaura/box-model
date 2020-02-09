@@ -1,0 +1,18 @@
+.sidebar  {
+    width: 3cm;
+    float: right;
+    background-color: yellow;
+    border: 3cm;
+    padding: 3cm;
+    margin: 3cm;
+}
+.main   {
+    color: blue;
+}
+.Column {
+    width: 350px;
+    float: left;
+}
+.image  {
+    padding: 2cm;
+}
